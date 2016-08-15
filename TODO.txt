@@ -1,0 +1,2 @@
+Create table LOG_Query --- Description CMT_ID , CMT_NAME , QUERY , QUERY_TYPE(1-SELECT 2 - OTHERS) , You have to log every Query 
+ 
